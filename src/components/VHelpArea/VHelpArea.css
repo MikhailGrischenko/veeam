@@ -1,0 +1,16 @@
+.v-help-area {
+    overflow: auto;
+    max-height: calc(100vh - 148px);
+}
+
+.v-help-area .MuiAccordionDetails-root {
+    display: flex;
+    flex-direction: column;
+}
+
+.v-help-area .MuiAccordionSummary-content {
+    font-weight: bold;
+    margin: 0;
+    padding: 20px;
+    background-color: rgba(0,0,0,.04);
+}

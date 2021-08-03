@@ -1,0 +1,24 @@
+.v-tab-result {
+
+}
+
+.v-teb-result__field {
+    margin: 1em 0;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.v-teb-result__field  .MuiFormControlLabel-root {
+    display: flex;
+}
+
+.v-teb-result__field .MuiFormControlLabel-label {
+    flex-basis: 7rem;
+    width: 7rem;
+    text-align: left;
+}
+
+.v-teb-result__field .MuiFormGroup-root .MuiFormControlLabel-label {
+    flex-basis: auto;
+    width: auto;
+}
