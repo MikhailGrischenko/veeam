@@ -28,9 +28,10 @@ Stack:
 
 In the project directory, you can run:
 
-### `npm start` (development mode)
+`npm start` (development mode)
 
-### `npm run build` (build project)
+`npm run build` (build project)
+
 The project will be built in the directory "../build". After that, it can be copied to any hosting. 
 
 ## Project dependency
